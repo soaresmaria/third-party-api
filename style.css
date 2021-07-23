@@ -1,0 +1,73 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+h1 {
+  color: black;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  padding: 4px 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+.lead {
+  padding-top: 10px;
+}
+
+.description{
+  white-space: pre-wrap;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid #CEE5F2;
+}
+
+.hour {
+  border-right: 1px solid #CEE5F2;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.past {
+  background-color: #d3d3d3;
+  color: white;
+}
+
+.present {
+  background-color: #ff6961;
+  color: white;
+}
+
+.future {
+  background-color: #77dd77;
+  color: white;
+}
+
+.saveBtn {
+  background-color: rgba(99, 112, 129, 0.75);
+  border: none;
+  color: #ffffff; 
+}
+
+.saveBtn:hover {
+  font-size: 30px;
+  color: #000000;
+  transition: all .3s ease-in-out;
+}
