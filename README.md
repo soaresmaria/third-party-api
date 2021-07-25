@@ -7,3 +7,4 @@
 ## Screenshot of the scheduler
 ![work day scheduler](https://user-images.githubusercontent.com/82120954/126890339-e7adda8b-95d4-421d-90f9-30896f294a21.png)
 # Link of the deployed application:-
+https://soaresmaria.github.io/third-party-api/
